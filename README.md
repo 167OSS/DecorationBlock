@@ -17,3 +17,7 @@ License
 
 THE SOFTWARE IS PROVIDED "AS IS" BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS WITHOUT WARRANTY OF ANY KIND.
 IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR CONTRIBUTORS BE HELD LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY.
+
+
+The 1.7.10 version was ported by me using Cursor AI. So far, I haven’t found any issues in-game. Pull requests are welcome!
+1.7.10是我用cursor AI进行移植的，目前游戏内我没有发现什么错误，欢迎提交PR！
