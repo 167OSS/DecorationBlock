@@ -1,6 +1,6 @@
 The 1.7.10 version was ported by me using Cursor AI. So far, I haven’t found any issues in-game. Pull requests are welcome!
 
-1.7.10是我用cursor AI进行移植的，目前游戏内我没有发现什么错误，欢迎提交PR！
+我用Cursor作为工具移植到了1.7.10，我在游戏中没有发现什么问题，欢迎提交PR
 
 DecorationBlock
 ===============
